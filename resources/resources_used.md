@@ -15,6 +15,8 @@ built on top of the Python programming language.
 
 - [re — Regular expression operations](https://docs.python.org/3/library/re.html) : *re — Regular expression operations* A regular expression (or RE) specifies a set of strings that matches it; the functions in this module let you check if a particular string matches a given regular expression (or if a given regular expression matches a particular string, which comes down to the same thing).
 
+- [librosa](https://docs.python.org/3/library/re.html) : *librosa* python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
+
 
 ## Articles & Tutorials
 - [Meteorite wiki](https://en.wikipedia.org/wiki/Meteorite): This article is about debris from space that survives impact with the ground.
