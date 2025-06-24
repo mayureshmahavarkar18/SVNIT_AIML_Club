@@ -18,11 +18,16 @@ built on top of the Python programming language.
 - [librosa](https://docs.python.org/3/library/re.html) : *librosa* python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
 
 
+
 ## Articles & Tutorials
 - [Meteorite wiki](https://en.wikipedia.org/wiki/Meteorite): This article is about debris from space that survives impact with the ground.
 
 - [Meteorite classification wiki](https://en.wikipedia.org/wiki/Meteorite_classification): In meteoritics, a meteorite classification system attempts to group similar meteorites and allows scientists to communicate with a standardized terminology when discussing them. Meteorites are classified according to a variety of characteristics, especially mineralogical, petrological, chemical, and isotopic properties.
 
+- [Linear Regression wiki](https://en.wikipedia.org/wiki/Linear_regression): In statistics, linear regression is a model that estimates the relationship between a scalar response (dependent variable) and one or more explanatory variables (regressor or independent variable).
+  
+- [Linear Regression geeksforgeeks](https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/): Linear regression is a type of supervised machine-learning algorithm that learns from the labelled datasets and maps the data points with most optimized linear functions which can be used for prediction on new datasets.
+  
 ## Tools
 - [Tool Name](link): Purpose and how it’s used.
 
