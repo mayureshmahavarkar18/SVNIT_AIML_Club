@@ -27,9 +27,12 @@ built on top of the Python programming language.
 - [Linear Regression wiki](https://en.wikipedia.org/wiki/Linear_regression): In statistics, linear regression is a model that estimates the relationship between a scalar response (dependent variable) and one or more explanatory variables (regressor or independent variable).
   
 - [Linear Regression geeksforgeeks](https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/): Linear regression is a type of supervised machine-learning algorithm that learns from the labelled datasets and maps the data points with most optimized linear functions which can be used for prediction on new datasets.
-  
+
+- [Audio Agumentation](https://medium.com/@joshiprerak123/transforming-sound-audio-augmentation-in-python-89c1c08a836b) : Audio augmentation is a powerful technique used in machine learning and deep learning to artificially expand and diversify audio datasets. This process involves creating modified versions of existing audio samples by applying various transformations, without changing the underlying content or label of the audio.
+
 ## Tools
-- [Tool Name](link): Purpose and how it’s used.
+- [Google colab](https://colab.research.google.com/): For making code and running AI models.
 
 ## Others
-- [Resource Name](link): Any other relevant resources.
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/): Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how.
